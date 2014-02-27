@@ -60,9 +60,9 @@ $(document).ready(
 
 		/* Teaser image swap function */
 	    $("#logoLink").hover(function () {
-	        $("#logo").src = 'img/Logo_Mailtape.gif';
+	        $("#logo").src = '/img/Logo_Mailtape.gif';
 	    }, function () {
-	        $("#logo").src = 'img/Logo_Mailtape.png';
+	        $("#logo").src = '/img/Logo_Mailtape.png';
 	    });
 
 	// connextion à l'api soundcloud
