@@ -3,6 +3,3 @@ markdown: redcarpet
 pygments: true
 permalink: /:categories/:title/
 timezone: Europe/Paris
-safe: false
-assets:
-  js_compressor: yui
