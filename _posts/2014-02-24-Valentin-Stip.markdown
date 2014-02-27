@@ -16,7 +16,7 @@ guest_color: dreamy
 bigTitle_font_ratio: 6
 bigTitle_line_ratio: 1
 
-description: "This morning welcome on Dream Airlines. Our captain, Valentin Stip, will take us off to glowing masses of condensed sound vapor floating in the sky. Classical music and vibrant sunrays blend together over the sea of clouds, close your eyes and let the wave bring you till the edge of the atmosphere. We’ll get back on earth progressively to finally land in the middle of the Amazon rainforest where a tribe of brazilian shamans tripping on glue are waiting for us."
+description: "This morning, welcome on Dream Airlines. Our captain, Valentin Stip, will take us off to glowing masses of condensed sound vapor floating in the sky. Classical music and vibrant sunrays blend together over the sea of clouds, close your eyes and let the wave bring you till the edge of the atmosphere. We’ll get back on earth progressively to finally land in the middle of the Amazon rainforest where a tribe of brazilian shamans tripping on glue are waiting for us."
 
 intro: This morning, welcome on Dream Airlines. Our captain, <a href="https://www.facebook.com/pages/Valentin-Stip/121985284555099" target="_blank">Valentin Stip</a>, will take us off to glowing masses of condensed sound vapor floating in the sky. Classical music and vibrant sunrays blend together over the sea of clouds, close your eyes and let the wave bring you till the edge of the atmosphere.<br/><br/>We’ll get back on earth progressively to finally land in the middle of the Amazon rainforest where a tribe of brazilian shamans tripping on glue are waiting for us.
 
