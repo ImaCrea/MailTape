@@ -21,7 +21,8 @@ prose:
         field:
           element: "hidden"
           value: "episode"
-      - author:
+      - name: "author"
+        field:
           element: "multiselect"
           label: "Who are you dude ?"
           placeholder: "Choose your name"
