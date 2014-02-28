@@ -1,7 +1,7 @@
 ---
 "2": "[object Object]"
 layout: episode
-published: false
+published: true
 title: Untitledblb
 category: 130
 tags: 
